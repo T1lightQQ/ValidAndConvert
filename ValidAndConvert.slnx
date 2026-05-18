@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="UnitTest/UnitTest.vcxproj" />
+  <Project Path="ValidAndConvert/ValidAndConvert.vcxproj" Id="8af6565b-2b42-462a-9581-a4e9ebd7cfca" />
+</Solution>
